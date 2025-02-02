@@ -43,28 +43,6 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-## Example
-
-Here's a fun example of what you can create with ChronoFlux:
-
-![Cat Choir](docs/example_cats.jpg)
-
-Prompt used:
-```
-A large group of cats singing in a choir, all looking up with open mouths, mixture of orange, white, and black cats, soft lighting, high quality, detailed fur, expressive faces, cozy blanket
-```
-
-Negative prompt:
-```
-blurry, low quality, distorted, unrealistic, bad anatomy
-```
-
-Settings used:
-- Sampler: euler_a
-- Steps: 35
-- Guidance Scale: 7.0
-- Aspect Ratio: Landscape (4:3)
-
 ## Usage
 
 1. Enter your prompt in the text area
