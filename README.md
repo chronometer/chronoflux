@@ -1,6 +1,6 @@
-# ChronoFlux - Time-Inspired AI Image Generation
+# ChronoFlux - AI Image Generation Interface
 
-A sleek and user-friendly Streamlit interface for Black Forest Labs' Flux AI image generation API. Create stunning AI-generated images with time-inspired prompts and advanced controls.
+A sleek and user-friendly Streamlit interface for Black Forest Labs' Flux AI image generation API. Create stunning AI-generated images with powerful controls and settings.
 
 ## Features
 
