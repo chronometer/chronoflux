@@ -2,8 +2,6 @@
 
 A sleek and user-friendly Streamlit interface for Black Forest Labs' Flux AI image generation API. Create stunning AI-generated images with time-inspired prompts and advanced controls.
 
-![ChronoFlux Screenshot](docs/screenshot.png)
-
 ## Features
 
 - 🎨 Simple and intuitive user interface
